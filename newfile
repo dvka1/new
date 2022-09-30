@@ -4,5 +4,6 @@ merge check here main
 checking with multiple user: 2
 taking both
 checking newuser 1 here
-
 merge check user2
+deleting 1st user merge
+
