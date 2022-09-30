@@ -7,3 +7,6 @@ checking newuser 1 here
 merge check user2
 deleting 1st user merge
 new hai
+
+deleting all previous version
+
