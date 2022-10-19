@@ -18,4 +18,4 @@ checking new branch1
 add
 
 permission chk
-
+rebase checking@newmain1
