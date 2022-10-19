@@ -19,3 +19,5 @@ add
 
 permission chk
 rebase checking@newmain1
+
+rebase checking 1
