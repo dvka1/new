@@ -2,6 +2,9 @@ hello newfile
 hi after stash
 tag recording here
 
+stash
+
+
 merge check here main
 checking with multiple user: 2
 taking both
