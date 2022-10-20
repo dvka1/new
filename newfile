@@ -27,3 +27,5 @@ rebase checking 1
 rebase checkin 2
 merge1
 merge2
+
+fastforward check
